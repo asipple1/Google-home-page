@@ -25,11 +25,7 @@ time, mark, audio, video {
     vertical-align:baseline;
     background:transparent;
 } 
- @font-face{
-     font-family:circuit;
-     src:url(fonts/CIRCUIT_.TTF);
- 
- }
+
 time, mark, audio, video {
     margin:0;
     padding:0;
@@ -53,8 +49,7 @@ list-style: none;
 }
 a{
 text-decoration: none;
-   color: green; 
-    font-family: circuit;
+   color: black;
     
 }
 li{
